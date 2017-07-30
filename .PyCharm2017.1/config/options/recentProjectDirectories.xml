@@ -1,0 +1,328 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\Dave\Documents\project2-master" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\Dave\Documents\project2-master" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\Dave\Documents\project2-master" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\Dave\Documents\project2-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1501439667024" />
+              <option name="buildTimestamp" value="1497357453871" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\Boggle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496061557664" />
+              <option name="buildTimestamp" value="1494434078912" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\IO&amp;Exceptions">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496077075646" />
+              <option name="buildTimestamp" value="1494434078912" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\MenuTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499764327057" />
+              <option name="buildTimestamp" value="1497357420830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\ModelTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499796403714" />
+              <option name="buildTimestamp" value="1497357429310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\Project2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499716805722" />
+              <option name="buildTimestamp" value="1497357471570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\adventure">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1495887492321" />
+              <option name="buildTimestamp" value="1494434063551" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\auth_demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1500203981064" />
+              <option name="buildTimestamp" value="1497357479403" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\auth_demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499874879115" />
+              <option name="buildTimestamp" value="1497357474293" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\blog_prj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1500204607511" />
+              <option name="buildTimestamp" value="1497357479403" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\classes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496334579640" />
+              <option name="buildTimestamp" value="1494434061415" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\database">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496404554963" />
+              <option name="buildTimestamp" value="1494434052561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\django_todo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1501162304751" />
+              <option name="buildTimestamp" value="1497357420264" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\flask_test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496668460154" />
+              <option name="buildTimestamp" value="1494434090493" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\flask_test\static">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1497552129374" />
+              <option name="buildTimestamp" value="1494434091393" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\graphy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1498735131505" />
+              <option name="buildTimestamp" value="1497357453800" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\pygame">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496089964492" />
+              <option name="buildTimestamp" value="1494434078912" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\school_donations">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499112187429" />
+              <option name="buildTimestamp" value="1497357459756" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\two_pages">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496676627940" />
+              <option name="buildTimestamp" value="1494434090493" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499796282078" />
+              <option name="buildTimestamp" value="1497357429310" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\we_are_social">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1500414371917" />
+              <option name="buildTimestamp" value="1497357421049" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\PycharmProjects\web_scraping">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496668026041" />
+              <option name="buildTimestamp" value="1494434090493" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\hello_django\HelloWorld_prj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499767385911" />
+              <option name="buildTimestamp" value="1497357420830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\matplotlib1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496413225504" />
+              <option name="buildTimestamp" value="1494434052561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\pandas">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496582387063" />
+              <option name="buildTimestamp" value="1494434045815" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\project2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1500318478613" />
+              <option name="buildTimestamp" value="1497357466428" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\project2\project2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4694.38" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1499114935633" />
+              <option name="buildTimestamp" value="1497357459756" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Dave\twitter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-171.4424.42" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="C:\Program Files\JetBrains\PyCharm 2017.1.3\bin" />
+              <option name="projectOpenTimestamp" value="1496582502518" />
+              <option name="buildTimestamp" value="1494434045815" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="C:\Users\Dave\PycharmProjects" />
+  </component>
+</application>

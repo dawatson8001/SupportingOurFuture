@@ -1,0 +1,4 @@
+For Apple Internal Use Only; Not for Disclosure/Distribution Outside of Apple.
+
+[ERROR]        72b0dc939 [17/07/27 14:56:24.534]  18350720.default-queue _cfhttp_read_stream_client_callback:909 http context (071976C0) stream (06216FA8) had an error Error Domain=kCFErrorDomainCFNetwork Code=-1005 "The operation couldn’t be completed. (kCFErrorDomainCFNetwork error -1005.)"
+.

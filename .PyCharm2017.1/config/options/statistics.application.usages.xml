@@ -1,0 +1,44 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Django" count="11" />
+      <entry feature="AbstractNewProjectStep.Flask" count="8" />
+      <entry feature="AbstractNewProjectStep.Pure Python" count="11" />
+      <entry feature="CreateFile.CreateFileAction" count="45" />
+      <entry feature="OpenInBrowser.Chrome" count="2" />
+      <entry feature="OpenInBrowser.Internet Explorer" count="4" />
+      <entry feature="OpenInBrowser.default" count="10" />
+      <entry feature="StripeButton[Salesforce].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="5" />
+      <entry feature="django.manage.py.not.in.project.root" count="1" />
+      <entry feature="execute.Python.DjangoServer.Run" count="4" />
+      <entry feature="execute.PythonConfigurationType.Coverage" count="7" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="12" />
+      <entry feature="execute.PythonConfigurationType.Profiler" count="9" />
+      <entry feature="execute.PythonConfigurationType.Run" count="662" />
+      <entry feature="execute.tests.Coverage" count="3" />
+      <entry feature="execute.tests.Debug" count="4" />
+      <entry feature="execute.tests.Run" count="26" />
+      <entry feature="git.branch.checkout.local" count="2" />
+      <entry feature="git.branch.create.new" count="1" />
+      <entry feature="git.branch.merge" count="1" />
+      <entry feature="git.checkout.as.new.branch" count="1" />
+      <entry feature="ide.help.top" count="1" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Coverage" count="1" />
+      <entry feature="ide.settings.Ignored_Files" count="1" />
+      <entry feature="ide.settings.Project_Interpreter" count="2" />
+      <entry feature="ide.settings.Servers" count="1" />
+      <entry feature="ide.settings.Version_Control" count="3" />
+      <entry feature="ide.settings.Web_Browsers" count="3" />
+      <entry feature="ideaapp.started" count="59" />
+      <entry feature="python.console.local" count="20" />
+      <entry feature="terminal.win" count="49" />
+      <entry feature="vcs.log.ShowDiff" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.null" count="5" />
+    </counts>
+  </component>
+</application>
