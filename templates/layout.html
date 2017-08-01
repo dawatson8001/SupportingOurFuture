@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Supporting Our Future!</title>
+    <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{ url_for ('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/keen-dashboards.css')}}">
+    <link rel="stylesheet" href="{{ url_for ('static', filename='lib/css/dc.css')}}">
+
+</head>
+<body>
+	<section class="container">
+        <img src="{{ url_for ('static', filename='images/sof1.gif')}}" alt="Supporting Our Future Logo"/>
+		<nav class="navbar">
+            <a id="menu" href="{{ url_for('index') }}">Home</a>
+            <a id="menu" href="{{ url_for('nyasfunding') }}">NYAS Funding</a>
+            <a id="menu" href="{{ url_for('contactus') }}">Contact us</a>
+		</nav>
+    </section>
+
+    {%  block content %}
+    {% endblock %}
+
+    <script src="{{ url_for ('static', filename='lib/js/jquery.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/bootstrap.min.js')}}"></script>
+
+</body>
+</html>
