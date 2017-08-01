@@ -18,12 +18,12 @@
 
 ###Existing Features
 
+###features left to implement
+
 - E-mail link to submit queries
 - Pie chart to display voluntary income
 - Line chart to display income, expenses and end of year totals
 - Interaction with database information
-
-###features left to implement
 
 ##Tech Used
 
