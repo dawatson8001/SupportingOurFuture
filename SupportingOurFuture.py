@@ -6,8 +6,8 @@ app = Flask(__name__)
 
 MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017
-DBS_NAME = 'volunteerFunding'
-COLLECTION_NAME = 'nyasFunding'
+DBS_NAME = 'volunteerfunding'
+COLLECTION_NAME = 'nyasfunding'
 
 @app.route("/")
 def index():

@@ -9,8 +9,8 @@ def mongo_connect():
         print "Could not connect to MongoDB: %s" % e
 
 conn = mongo_connect()
-db = conn['volunteerFunding']
-coll = db.nyasFunding
+db = conn['volunteerfunding']
+coll = db.nyasfunding
 doc = [{"financial_year": "2014-04-01", "voluntary_income": 458765, "activities_for_generating_income": 4823,
         "investment_income": 18151, "charitable_activities_in": 4642230, "income_total": 5123969,
         "costs_of_generating_voluntary_income": 49362, "charitable_activities": 5360267, "governance_costs": 11450,
