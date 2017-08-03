@@ -1,0 +1,44 @@
+{%  extends "layout.html" %}
+{% block content %}
+    <section class="container">
+		<section class="row">
+			<article class="col-xs-12">
+			    <H1 align="center">Supporting Our Future</H1>
+				<p>
+					An organization encouraging support, both financial and time, to the many young people in the United Kingdom.
+					we are following the various organizations that offer this support through funding and volunteers, as well as showing
+					how their funding is generated to gain support from local companies and more support from local councils to give everyone
+					the best start in life to inspire and encourage our young people to their maximum potential.
+				</p>
+			</article>
+		</section>
+		<section class="row">
+			<figure class="col-xs-6">
+                <img src="{{ url_for ('static', filename='images/nyaslogo.png')}}" alt="NYAS Logo"/>
+			</figure>
+			<article class="col-xs-6">
+				<p>
+					The National Youth Advocacy Service (NYAS) is a rights based charity which operates across England and Wales for children, young people and adults.
+				</p>
+				<p>
+					NYAS offers a variety of services including:
+				</p>
+				<ul>
+					A national advocacy helpline.
+				</ul>
+				<ul>
+					Advocacy for children in care and those in need – including children subject to child protection plans, care leavers, children and young people with disabilities.
+				</ul>
+				<ul>
+					The provision of independent visitors for children in care.
+				</ul>
+				<ul>
+					Legal representation of children in private family law.
+				</ul>
+				<ul>
+					Advocacy to adults in-inpatient mental health settings.
+				</ul>
+			</article>
+		</section>
+    </section>
+{%  endblock %}

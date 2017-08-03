@@ -1,0 +1,64 @@
+{%  extends "layout.html" %}
+{% block content %}
+
+    <section  id="outer" class="container">
+        <section class="row">
+            <article class="col-sm-12">
+                NYAS Annual Financing Records
+            </article>
+        </section>
+        <section class="row">
+            <section class="col-sm-6">
+                <section class="chart-wrapper">
+                    <article class="chart-title">
+                        Annual Income (£)
+                    </article>
+                    <article class="chart-stage">
+                        <article id="annual-income-line-chart"></article>
+                    </article>
+                </section>
+            </section>
+            <section class="col-sm-6">
+                <article class="chart-wrapper">
+                    <article class="chart-title">
+                        Annual Voluntary Income
+                    </article>
+                    <article class="chart-stage">
+                        <article id="annual-income-pie-chart"></article>
+                    </article>
+                </article>
+            </section>
+        </section>
+        <section class="row">
+            <section class="col-sm-6">
+                <section class="chart-wrapper">
+                    <article class="chart-title">
+                        Annual Expenses (£)
+                    </article>
+                    <article class="chart-stage">
+                        <article id="annual-expenses-line-chart"></article>
+                    </article>
+                </section>
+            </section>
+            <section class="col-sm-6">
+                <section class="chart-wrapper">
+                    <article class="chart-title">
+                        End of Year Total (£)
+                    </article>
+                    <article class="chart-stage">
+                        <article id="end-of-year-total-chart"></article>
+                    </article>
+                </section>
+            </section>
+        </section>
+    </section>
+
+    <script src="{{ url_for ('static', filename='lib/js/jquery.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/crossfilter.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/d3.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/dc.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/queue.js')}}"></script>
+    <script src="{{ url_for ('static', filename='lib/js/keen.min.js')}}"></script>
+    <script src="{{ url_for ('static', filename='js/graph.js')}}"></script>
+
+{%  endblock %}
