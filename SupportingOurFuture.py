@@ -8,7 +8,7 @@ MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017
 DBS_NAME = 'volunteerfunding'
 COLLECTION_NAME = 'nyasfunding'
-MONGO_URI = 'mongodb://<dbuser>:<dbpassword>@ds135252.mlab.com:35252/volunteerfunding'
+MONGO_URI = 'mongodb://admin:sooty2487@ds135252.mlab.com:35252/volunteerfunding'
 
 @app.route("/")
 def index():
