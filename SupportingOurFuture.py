@@ -8,6 +8,7 @@ MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017
 DBS_NAME = 'volunteerfunding'
 COLLECTION_NAME = 'nyasfunding'
+MONGO_URI = 'mongodb://<dbuser>:<dbpassword>@ds135252.mlab.com:35252/volunteerfunding'
 
 @app.route("/")
 def index():
@@ -33,9 +34,9 @@ def nyasFunding():
         'total_funds_at_start_of_year': True, 'total_funds_at_end_of_year': True
     }
 
-    with MongoClient (MONGODB_HOST, MONGODB_PORT) as conn:
+    with MongoClient (MONGO_URI) as conn:
         collection = conn[DBS_NAME][COLLECTION_NAME]
-        projects = collection.find(projection=FIELDS, limit=55000)
+        projects = collection.find(projection=FIELDS, limit=2000)
 
         return json.dumps(list(projects))
 
