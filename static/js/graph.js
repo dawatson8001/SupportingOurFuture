@@ -28,12 +28,6 @@ function makeGraphs(error, projectsJson) {
     var incomeData = incomeDateDim.group().reduceSum(function(d) {return d["voluntary_income"];});
 
 
-    //charts
-    var incomeLineChart = dc.lineChart("#annual-income-line-chart");
-    var expensesLineChart = dc.lineChart("#annual-expenses-line-chart");
-    var endOfYearTotalLineChart = dc.lineChart("#end-of-year-total-chart");
-    var voluntaryIncomePieChart = dc.pieChart("#annual-income-pie-chart");
-
     var chartWidth = $("#annual-income-line-chart").width();
     var pieRadius = 90;
     if(chartWidth >= 480){
@@ -41,6 +35,11 @@ function makeGraphs(error, projectsJson) {
     } else {
         pieRadius = chartWidth * 0.3;
     }
+    //charts
+    var incomeLineChart = dc.lineChart("#annual-income-line-chart");
+    var expensesLineChart = dc.lineChart("#annual-expenses-line-chart");
+    var endOfYearTotalLineChart = dc.lineChart("#end-of-year-total-chart");
+    var voluntaryIncomePieChart = dc.pieChart("#annual-income-pie-chart");
 
     incomeLineChart
         .width(chartWidth).height(200)
