@@ -30,7 +30,7 @@ function makeGraphs(error, projectsJson) {
 
     var containerWidth = $("#annual-income-line-chart").width();
     var pieRadius = 90;
-    var chartWidth = containerWidth;
+    var chartWidth = containerWidth * .80;
     if(containerWidth >= 480){
         pieRadius = 90;
         chartWidth = 200;
