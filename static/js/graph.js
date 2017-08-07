@@ -28,8 +28,7 @@ function makeGraphs(error, projectsJson) {
     var incomeData = incomeDateDim.group().reduceSum(function(d) {return d["voluntary_income"];});
 
 
-    var chartWidth = $("#annual-income-line-chart").width();
-    var chartHeight = $("#annual-income-line-chart").height();
+    var chartWidth = $("annual-income-line-chart").width();
     var pieRadius = 90;
     if(chartWidth >= 480){
         pieRadius = 90;
