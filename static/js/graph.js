@@ -42,7 +42,7 @@ function makeGraphs(error, projectsJson) {
     var voluntaryIncomePieChart = dc.pieChart("#annual-income-pie-chart");
 
     incomeLineChart
-        .width(chartWidth).height(200)
+        .width(chartWidth-200).height(200)
         .margins({top: 10, right: 50, bottom: 40, left: 60})
         .dimension(dateDim)
         .group(annualIncomeTotal)
