@@ -48,3 +48,31 @@ Test passed
 
 ______________________________________________________________________________
 
+Test Type: Click Home link from homepage
+
+ Expected Result: reload homepage
+
+Actual Result: homepage reloaded
+
+Test passed
+
+______________________________________________________________________________
+
+Test Type: open NYAS Funding link from homepage
+
+ Expected Result: NYAS Funding page loads with all graphs displayed correctly
+
+Actual Result: NYAS Funding page loads, all graphs load correctly
+
+Test passed
+
+______________________________________________________________________________
+
+Test Type: Test page links on all pages
+
+ Expected Result: navigate to appropriate pages, all links work corretly
+Actual Result: all links load correct pages
+
+Test passed
+
+______________________________________________________________________________
