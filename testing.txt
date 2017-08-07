@@ -1,0 +1,50 @@
+Test Type: Load all photos on web pages
+
+ Expected Result: All photos loaded on all web pages correctly
+
+Actual Result: all photos loaded on all web pages correctly
+
+Test passed
+
+______________________________________________________________________________
+
+Test Type: Click Email link
+
+ Expected Result: open email application with email address
+
+Actual Result: Outlook opened with email address inserted
+
+Test passed
+
+______________________________________________________________________________
+
+Test Type: Open and explore website on Firefox browser
+
+ Expected Result: all tests above pass, functionality remains constant across browsers
+
+Actual Result: all functionality works correctly, all photos/videos and audio files load
+
+Test passed
+
+______________________________________________________________________________
+
+Test Type: Open and explore website on Chrome browser
+
+ Expected Result: all tests above pass, functionality remains constant across browsers
+
+Actual Result: all functionality works correctly, all photos/videos and audio files load
+
+Test passed
+
+______________________________________________________________________________
+
+Test Type: Open and explore website on Internet Explorer browser
+
+ Expected Result: all tests above pass, functionality remains constant across browsers
+
+Actual Result: all functionality works correctly, all photos/videos and audio files load
+
+Test passed
+
+______________________________________________________________________________
+
