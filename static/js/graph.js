@@ -34,8 +34,16 @@ function makeGraphs(error, projectsJson) {
     var endOfYearTotalLineChart = dc.lineChart("#end-of-year-total-chart");
     var voluntaryIncomePieChart = dc.pieChart("#annual-income-pie-chart");
 
+    var chartWidth = $("#annual-income-line-chart").width();
+    var pieRadius = 90;
+    if(chartWidth >= 480){
+        pieRadius = 90;
+    } else {
+        pieRadius = chartWidth * 0.3;
+    }
+
     incomeLineChart
-        .width(500).height(200)
+        .width(chartWidth).height(200)
         .margins({top: 10, right: 50, bottom: 40, left: 60})
         .dimension(dateDim)
         .group(annualIncomeTotal)
@@ -45,7 +53,7 @@ function makeGraphs(error, projectsJson) {
         .yAxis().ticks(6);
 
     expensesLineChart
-        .width(500).height(200)
+        .width(chartWidth).height(200)
         .margins({top: 10, right: 50, bottom: 40, left: 60})
         .dimension(dateDim)
         .group(annualExpensesTotal)
@@ -56,7 +64,7 @@ function makeGraphs(error, projectsJson) {
         .yAxis().ticks(6);
 
     endOfYearTotalLineChart
-        .width(500).height(200)
+        .width(chartWidth).height(200)
         .margins({top: 10, right: 50, bottom: 40, left: 60})
         .dimension(dateDim)
         .group(endOfYearTotal)
@@ -67,8 +75,8 @@ function makeGraphs(error, projectsJson) {
         .yAxis().ticks(5);
 
     voluntaryIncomePieChart
-       .height(220)
-       .radius(90)
+        .width(chartWidth).height(220)
+       .radius(pieRadius)
        .innerRadius(40)
        .transitionDuration(1500)
        .dimension(incomeDateDim)
