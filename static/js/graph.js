@@ -33,7 +33,7 @@ function makeGraphs(error, projectsJson) {
     var chartWidth = containerWidth;
     if(containerWidth >= 480){
         pieRadius = 90;
-        chartWidth = 400;
+        chartWidth = 200;
     } else {
         pieRadius = containerWidth * 0.3;
     }
