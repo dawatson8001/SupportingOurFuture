@@ -28,12 +28,14 @@ function makeGraphs(error, projectsJson) {
     var incomeData = incomeDateDim.group().reduceSum(function(d) {return d["voluntary_income"];});
 
 
-    var chartWidth = $("#annual-income-line-chart").width();
+    var containerWidth = $("#annual-income-line-chart").width();
     var pieRadius = 90;
-    if(chartWidth >= 480){
+    var chartWidth = containerWidth;
+    if(containerWidth >= 480){
         pieRadius = 90;
+        chartWidth = 400;
     } else {
-        pieRadius = chartWidth * 0.3;
+        pieRadius = containerWidth * 0.3;
     }
     //charts
     var incomeLineChart = dc.lineChart("#annual-income-line-chart");
