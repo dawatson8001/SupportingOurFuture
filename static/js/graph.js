@@ -29,6 +29,7 @@ function makeGraphs(error, projectsJson) {
 
 
     var chartWidth = $("#annual-income-line-chart").width();
+    var chartHeight = $("#annual-income-line-chart").height();
     var pieRadius = 90;
     if(chartWidth >= 480){
         pieRadius = 90;
@@ -42,7 +43,7 @@ function makeGraphs(error, projectsJson) {
     var voluntaryIncomePieChart = dc.pieChart("#annual-income-pie-chart");
 
     incomeLineChart
-        .width(chartWidth-200).height(200)
+        .width(chartWidth).height(chartHeight)
         .margins({top: 10, right: 50, bottom: 40, left: 60})
         .dimension(dateDim)
         .group(annualIncomeTotal)
